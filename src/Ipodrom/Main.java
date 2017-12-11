@@ -26,7 +26,7 @@ public class Main {
 
        }
 
-      int pobeditel = 1;
+      int pobeditel;
        if (Kon1.isAlive()) {
 
 
